@@ -1,0 +1,85 @@
+1 B
+2 C
+3 A
+4 A
+5 C
+6 A
+7 B
+8 A
+9 C
+10 B
+11 B
+12 B
+13 D
+14 A
+15 D
+16 A
+17 C
+18 C
+19 C
+20 A
+21 C
+22 D
+23 B
+24 B
+25 B
+26 D
+27 D
+28 C x
+29 B
+30 D
+31 A
+32 C
+33 D
+34 B
+35 C
+36 A
+37 A
+38 B
+39 A
+40 C
+41 CD
+42 DE
+43 BC
+44 AC
+45 DE
+46 CE
+47 AD
+48 CE
+49 DE
+50 CE
+51 AB
+52 BC
+53 A
+54 AD
+55 BE
+56 A
+57 AC
+58 D
+59 C
+60 AD
+61 E
+62 E
+63 AB
+64 AC
+65 BE
+66 E
+67 C
+68 A
+69 D
+70 A
+71 E
+72 D
+73 BE x
+74 AB x
+75 AC x
+76 AC x
+77 AB x
+78 B
+79 CD x
+80 C
+81 B
+82 E
+83 B
+84 B
+85 A
